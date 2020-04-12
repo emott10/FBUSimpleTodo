@@ -4,8 +4,6 @@
 
 Submitted by: **Eric Mott**
 
-Time spent: **2** hours spent in total
-
 ## User Stories
 
 The following **required** functionality is completed:
